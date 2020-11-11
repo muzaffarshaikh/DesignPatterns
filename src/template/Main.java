@@ -1,4 +1,4 @@
-package templatepattern;
+package template;
 
 import java.util.Scanner;
 

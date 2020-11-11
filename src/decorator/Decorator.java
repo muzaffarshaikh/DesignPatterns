@@ -1,4 +1,4 @@
-package decoratorpattern;
+package decorator;
 
 /**
  *

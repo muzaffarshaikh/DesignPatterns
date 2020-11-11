@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package templatepattern;
+package template;
 
 /**
  *
  * @author Muzaffar
  */
-public class StoreOrder extends OrderProcessTemplate{
+public class OnlineOrder extends OrderProcessTemplate {
 
     @Override
     void doSelect() {

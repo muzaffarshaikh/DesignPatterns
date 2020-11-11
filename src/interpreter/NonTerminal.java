@@ -3,17 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package the_observerpattern;
-
-import java.util.ArrayList;
+package interpreter;
 
 /**
  *
  * @author Muzaffar
  */
-public class SBW {
-    public SBW(String symbol, Double price, ArrayList<Investor> investorList) {
-        
+public class NonTerminal extends AbstractExpression {
+
+    @Override
+    public void Interpret() {
+        System.out.println("Evaluating Non-Terminal Expression.");
     }
     
 }

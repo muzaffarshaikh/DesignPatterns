@@ -1,4 +1,4 @@
-package interpreterpattern;
+package interpreter;
 
 /**
  *
