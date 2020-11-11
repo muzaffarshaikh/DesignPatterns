@@ -5,7 +5,7 @@ package singleton;
  * @author Muzaffar
  */
 
-public class Main {
+public class SingletonPattern {
 
     /**
      * @param args the command line arguments
@@ -16,8 +16,9 @@ public class Main {
         SBW instance = SBW.getInstance();
         instance.getSBWdetails();
         System.out.println("");
-        System.out.println(SBW.getInstance());
-
+        System.out.println(SBW.getInstance().hashCode() + " : " + SBW.getInstance().hashCode() );
+        System.out.println("");
+        instance.getSBWdetails();
         
     }
     

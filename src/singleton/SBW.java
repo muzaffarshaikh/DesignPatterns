@@ -13,7 +13,10 @@ public class SBW {
     private final String address = "Near Old Bus Stand, Aquem, Margao - Goa";
     private final String telephone = "9876543210";
     private final String email = "swastikbakeryworks@gmail.com";
-  
+    
+    private SBW(){
+        
+    }
     
     public static SBW getInstance(){
         if(instance == null)
