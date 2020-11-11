@@ -7,7 +7,7 @@ package bridge;
 
 /**
  *
- * @author Student
+ * @author Muzaffar
  */
  public class Maruti800 extends MarutiCar{
 

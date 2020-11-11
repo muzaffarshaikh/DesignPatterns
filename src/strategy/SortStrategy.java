@@ -3,15 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package bridge;
+package strategy;
 
 /**
  *
  * @author Muzaffar
  */
-abstract class Road {
+public abstract class SortStrategy {
     
-    int mileage;
+    public abstract void sort(int a[]);
     
-    abstract public void DisplayMileage();
 }

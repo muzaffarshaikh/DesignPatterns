@@ -3,15 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package bridge;
+package proxy;
 
 /**
  *
  * @author Muzaffar
  */
-abstract class Road {
-    
-    int mileage;
-    
-    abstract public void DisplayMileage();
+public class Printer implements PrintInterface {
+
+    @Override
+    public void display(String user, String pass) {
+        System.out.println(user+" has access to print.");  
+    } 
 }

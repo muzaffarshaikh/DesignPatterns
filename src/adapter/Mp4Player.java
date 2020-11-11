@@ -7,7 +7,7 @@ package adapter;
 
 /**
  *
- * @author Student
+ * @author Muzaffar
  */
 public class Mp4Player implements AdvancedMediaPlayer {
 

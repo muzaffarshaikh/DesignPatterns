@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package bridge;
+package state;
 
 /**
  *
  * @author Muzaffar
  */
-abstract class Road {
+public abstract class State {
     
-    int mileage;
-    
-    abstract public void DisplayMileage();
+    public String stateName;
+    public abstract void doAction(Context c);
+     
 }

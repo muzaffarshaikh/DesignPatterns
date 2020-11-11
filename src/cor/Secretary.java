@@ -7,7 +7,7 @@ package cor;
 
 /**
  *
- * @author Student
+ * @author Muzaffar
  */
 public class Secretary extends Approver {
 

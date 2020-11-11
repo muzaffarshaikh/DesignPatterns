@@ -7,7 +7,7 @@ package builder;
 
 /**
  *
- * @author Student
+ * @author Muzaffar
  */
 public class VegRicePlateBuilder extends RicePlateBuilder {
     

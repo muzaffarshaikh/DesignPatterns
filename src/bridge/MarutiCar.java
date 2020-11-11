@@ -7,7 +7,7 @@ package bridge;
 
 /**
  *
- * @author Student
+ * @author Muzaffar
  */
 public abstract class MarutiCar {
 

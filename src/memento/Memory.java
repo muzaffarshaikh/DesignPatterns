@@ -3,15 +3,23 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package bridge;
+package memento;
 
 /**
  *
  * @author Muzaffar
  */
-abstract class Road {
+public class Memory {
     
-    int mileage;
+    private Memento men;
+
+    public Memento getMen() {
+        return men;
+    }
+
+    public void setMen(Memento men) {
+        this.men = men;
+    }
     
-    abstract public void DisplayMileage();
+    
 }

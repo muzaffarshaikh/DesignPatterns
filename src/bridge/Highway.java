@@ -7,7 +7,7 @@ package bridge;
 
 /**
  *
- * @author Student
+ * @author Muzaffar
  */
  class Highway extends Road{
 

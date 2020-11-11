@@ -7,7 +7,7 @@ package cor;
 
 /**
  *
- * @author Student
+ * @author Muzaffar
  */
 public class VicePresident extends Approver {
 

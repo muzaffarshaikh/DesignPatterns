@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Student
+ * @author Muzaffar
  */
 public class Waiter {
     

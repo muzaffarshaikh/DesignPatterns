@@ -2,7 +2,7 @@ package singleton;
 
 /**
  *
- * @author Student
+ * @author Muzaffar
  */
 
 public class Main {

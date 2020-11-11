@@ -8,7 +8,7 @@ package builder;
 
 /**
  *
- * @author Student
+ * @author Muzaffar
  */
 
 public abstract class RicePlateBuilder {
