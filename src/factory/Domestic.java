@@ -4,7 +4,7 @@ import thefactorypattern.ElectricityBillInterface;
 
 /**
  *
- * @author Student
+ * @author Muzaffar
  */
 
 public class Domestic implements ElectricityBillInterface {

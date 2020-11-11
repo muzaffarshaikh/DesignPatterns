@@ -5,7 +5,7 @@ import thefactorypattern.ElectricityBillInterface;
 
 /**
  *
- * @author Student
+ * @author Muzaffar
  */
 public class Commercial implements ElectricityBillInterface {
 

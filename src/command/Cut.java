@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package mediator;
+package command;
 
 /**
  *
  * @author Muzaffar
  */
-public class Mediator {
-    public void send(String msg, Colleague c){
-        c.notify(c.getName() + " : " + msg);
+public class Cut {
+    public void actionPerformed(){
+        System.out.println("Cut command performed");
     }
 }

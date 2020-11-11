@@ -2,7 +2,7 @@ package factory;
 
 /**
  *
- * @author Student
+ * @author Muzaffar
  */
 
 public interface ElectricityBillInterface {

@@ -7,7 +7,7 @@ package mediator;
 
 /**
  *
- * @author Student
+ * @author Muzaffar
  */
 public class ConcreteColleagueOne extends Colleague {
 
