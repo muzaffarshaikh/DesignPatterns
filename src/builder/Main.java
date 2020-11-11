@@ -1,6 +1,6 @@
 package builder;
 
-public class TheBuilderPatternDemo {
+public class Main {
     
     public static void main(String[] args) {
         
