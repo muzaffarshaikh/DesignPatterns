@@ -1,4 +1,4 @@
-package cor;
+package chainor;
 
 import java.util.Scanner;
 
